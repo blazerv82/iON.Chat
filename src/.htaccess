@@ -1,0 +1,2 @@
+php_value include_path "C:\xampp\htdocs/root/projects/iON.Chat/src"
+php_value auto_prepend_file "engine_loader.php"
